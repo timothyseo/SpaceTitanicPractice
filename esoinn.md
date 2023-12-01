@@ -4,7 +4,7 @@
 
 #### ESOINN-DP
 
-<figure><img src="../../.gitbook/assets/ESOINN-DP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ESOINN-DP.png" alt=""><figcaption></figcaption></figure>
 
 #### Description
 
@@ -31,7 +31,7 @@ DP버전의 경우, error indicator가 추가되어 학습과 군집화 오류�
 
 #### Basic Workflow:
 
-<figure><img src="../../.gitbook/assets/workflow.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/workflow.png" alt=""><figcaption></figcaption></figure>
 
 #### Prerequisites:
 
@@ -58,9 +58,9 @@ DP버전의 경우, error indicator가 추가되어 학습과 군집화 오류�
 
 sample NN-PES for water cluster:
 
-<figure><img src="../../.gitbook/assets/water_example.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/water_example.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/error.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/error.png" alt=""><figcaption></figcaption></figure>
 
 #### References：
 
