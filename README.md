@@ -1,0 +1,1 @@
+Basically this page is for spaceship project, but other pages will appear here for a practice of github control.
